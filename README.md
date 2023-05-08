@@ -10,7 +10,7 @@ Here are some of the resources included in this repository:
 
 __JavaScript Basics:__ This directory contains a series of exercises for practicing the basics of JavaScript, including data types, variables, functions, and control flow.
 
-JavaScript Syntax Cheat Sheet: This file contains a cheat sheet for JavaScript syntax, including common operators, statements, and expressions.
+__JavaScript Syntax Cheat Sheet:__ This file contains a cheat sheet for JavaScript syntax, including common operators, statements, and expressions.
 
 __JavaScript Resources:__ This file contains links to additional resources for learning JavaScript, including online tutorials, videos, and articles.
 
